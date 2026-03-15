@@ -1,5 +1,12 @@
 Mario Cafe Menu
+# RICE BOWL
 - Beef Teriyaki | 42K
 - Chicken Teriyaki | 37K
 - Salmon Teriyaki | 65K
 - Yaki Udon | 42K
+
+# SIGNATURE DRINK
+- White Label | 22K
+- Black Label | 25K
+- Nutella Coffee | 25K
+- Teh Tubruk | 15K
